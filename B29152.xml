@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wedding garment:, or, The honourable state of matrimony. Delivered in a wedding-sermon, under these following heads. I. Shewing that it is a divine institution ... II. This shews that persons thus joyned, shall remain spotless and undefiled. III. A man shall not only  provide food and raiment ... but likewise ... become a pattern of piety to his wife and family, of whom he is the head. IV. The woman's duty ... V. As they are united together in this blessed state ... / By Robert Russel ...</title>
+            <author>Russel, Robert, fl. 1692.</author>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29152</idno><idno type="EEBO-CITATION">48148930</idno>
+  <idno type="VID">207394</idno>
+  <idno type="EEBO-PROQUEST">2248518882</idno>
+  
+            <idno type="STC">Wing R2348E</idno>
+            <idno type="OCLC">48148930</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207394)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2096:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wedding garment:, or, The honourable state of matrimony. Delivered in a wedding-sermon, under these following heads. I. Shewing that it is a divine institution ... II. This shews that persons thus joyned, shall remain spotless and undefiled. III. A man shall not only  provide food and raiment ... but likewise ... become a pattern of piety to his wife and family, of whom he is the head. IV. The woman's duty ... V. As they are united together in this blessed state ... / By Robert Russel ...</title>
+                  <author>Russel, Robert, fl. 1692.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare, at the the Looking-glass on London-Bridge.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Marriage --  England --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207394:1"/>
+            <p>THE WEDDING GARMENT: Or, The Honourable <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate of MATRIMONY.</p>
+            <p>Delivered in a Wedding-Sermon, under these following Heads.</p>
+            <list>
+               <item>I. Shewing that it is a Divine Institution, and our blessed Saviour himself, here pass'd under the Simi<g ref="char:EOLhyphen"/>litude of a Bridegroom, and the Church his belo<g ref="char:EOLhyphen"/>ved Spouse.</item>
+               <item>II. This shews that Persons thus joyned, shall re<g ref="char:EOLhyphen"/>main spotless and undefiled.</item>
+               <item>III. A Man shall not only provide Food and Raiment, Necessaries of this Life; but likewise by his up<g ref="char:EOLhyphen"/>right Conversation, become a Pattern of Piety to his Wife and Family, of whom he is the Head.</item>
+               <item>IV. The Womans Duty, as she is the Wife of one Husband, in the Fear of God, to honour and obey.</item>
+               <item>V. As they are united together in this blessed State, both their Duties is to bear with one another, that they may live in Love and Concord here, and at length be crown'd with eternal Joy in another World.</item>
+            </list>
+            <q>
+               <bibl>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb. 13.4.</hi>
+               </bibl> Marriage is honourable in all, and the Bed undefiled.</q>
+            <p>By <hi>Robert Russel,</hi> of <hi>Wadhurst</hi> in <hi>Suffex.</hi>
+            </p>
+            <p>Printed for <hi>J. Blare,</hi> at the <hi>Looking-glass</hi> on <hi>London-Bridge.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:207394:2"/>
+            <head>THE Wedding Garment, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Mark 10.39.</hi>
+                  </bibl>
+                  <p>And they twain shall be one Flesh: so then they are no more twain, but one Flesh. Whom therefore God hath joyned together, let no Man put asunder.</p>
+               </q>
+            </epigraph>
+            <p>THE Occasion of these Words of ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blessed Saviour, may be taken from that Question which the Pharisees ask<g ref="char:EOLhyphen"/>ed him; <hi>Ver.</hi> 1.2. but it was only to tempt him, saying, <hi>Is it lawful for a Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to put away his Wife?</hi> Jesus answered him <hi>Ver.</hi> 3. <hi>What did Moses command you.</hi> An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they said, <hi>Ver.</hi> 4. <hi>Moses suffered to write a Bi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Divorsement, and to put her away. An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jesus answered and said unto them,</hi> Verse <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>that for the hardness of your Hearts he wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you this Precept: But from the beginning of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Creation God made them Male and Femal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Ver. 6. And then he adds here in my Tex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:207394:2"/>
+               <hi>For this Cause shall a Man leave Father and Mather, and cleave to his Wife: And they main shall Be one Flesh: so then they are no more twain, out one Flesh. Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m therefore God hath joyned together, let no Man put asunder.</hi> I might insist upon all these three Verses, but the main scope and drift of my Discourse shall be only on the middle most of them, which is this.</p>
+            <p>
+               <hi>And they twain shall be one Flesh: so then they art no more twain, but one Flesh.</hi> From this Text of Scripture, we may learn what Unity there is betwixt Man and Wise, when they are joyned together in Marriage. <hi>And they twain shall be one Flesh: so then they are no more twain, but one Flesh. Whom therefore God hath joyned together, let no man put asunder.</hi>
+            </p>
+            <p>The Doctrine which I shall observe from these Words, is thi.</p>
+            <p>That Man and Wise being joined together by God in the holy State of Matrimony, they cannot, must not, and ought not to be parted. <hi>For this Cause,</hi> saith Christ, <hi>shall a man leave Father and Mother, and cleave to his Wife And they twain shall be one Flesh: so then they are no more twain, but one Flesh. Whom there God hath joined together, let no man put asunder.</hi>
+            </p>
+            <p>Now in my farther prosecution of this sub<g ref="char:EOLhyphen"/>ject, I shall proceed after this Order.</p>
+            <pb n="4" facs="tcp:207394:3"/>
+            <p> First, I shall shew you who they be that are joyned together by God.</p>
+            <p>Secondly, That those that are thus joined by God, they must not, nor ought not to be parted.</p>
+            <p>Thirdly, The reason why they cannot, and must not be parted, is because of the near U<g ref="char:EOLhyphen"/>nion that is betwixt them, <hi>for they twain are one Flesh.</hi>
+            </p>
+            <p>And lastly, I shall make some use of it by way of Application.</p>
+            <p>I begin with the first.</p>
+            <p>Who they are that are joined together by Good; they are such as joyn together in Mar<g ref="char:EOLhyphen"/>riage, according to God's own Word; that is, for those Causes for which Matrimony was at first ordained: I will name these three.</p>
+            <p>First, It was ordained for the Propagation of Children, that they might be brought up in the fear of the Lord. God hath ordained Marriage for the Increase of Mankind, that his Name might be glorified in them, and by them.</p>
+            <p>Secondly, God hath ordained Marriage for the preventing of Sin, and the avoiding of Fornication; this is one chief end why Ma<g ref="char:EOLhyphen"/>trimony was ordained. Now mark, the Words of <hi>St. Paul,</hi> where he treats concern<g ref="char:EOLhyphen"/>ing Marriage, 1 <hi>Cor.</hi> 7.1, 2. <hi>Now concerning the things whereof ye wrote unto me: It is good
+<pb n="5" facs="tcp:207394:3"/>for a Man not to touch a Woman. But neveethe<g ref="char:EOLhyphen"/>less,</hi> saith he, <hi>to avoid Fornication, let every Man have his own Wife, and let every Woman have her own Husband.</hi> It is good for a man not to touch a woman, because thereby the Devil is apt to be tempting such to sin. But yet when a man hath not the Gift of Conti<g ref="char:EOLhyphen"/>nency; when he cannot contain so as to keep his Body pure and undefiled, then let him marry, nay upon that Case, he must and ought to marry, for he sins if he doth not marry; nay, in not marrying, he commits a double sin: 1. the sin of Fornication or A<g ref="char:EOLhyphen"/>dultery, which he runs himself into, having not the Gift of Continency. Secondly, He sins, in that he lives in a neglect of that holy Ordinance which God hath ordained and in<g ref="char:EOLhyphen"/>stituted for the preventing of sin; indeed Ma<g ref="char:EOLhyphen"/>trimony is a thing in it self indifferent, for a man sins not, let him marry or not marry; for saith the Apostle, <hi>Ver.</hi> 27. <hi>Art thou loosed from a Wife, seek not a Wife? Art thou bound to a VVife, seek not to be loosed? St. Paul</hi> speaks there of indifferency, when a Man hath Pow<g ref="char:EOLhyphen"/>er over his Will, and hath a Gift to contain, and keep his Body the pure and clean Temple of the Holy Ghost; nay, in that, a single Life of the two is the best; for, saith he, <hi>Ver.</hi> 38. <hi>He that giveth her in Marriage doth well; but he that giveth her not in Marriage doth better.</hi>
+               <pb n="6" facs="tcp:207394:4"/>And the Apostle wisheth that all were, even as he is, that is single: And the reason he gives, is this, <hi>That such shall have trouble in the Plesh,</hi> Ver. 28. for Ver 32. <hi>He would have them without Carefulness; for he that is unmarried car<g ref="char:EOLhyphen"/>eth for the things of the Lord, how bemay please the Lord: But he that is married, careth for the things of the World, how he may please his VVife.</hi> So in that respect an unmarried Life is the best of the two: But yet saith the same Apostle, <hi>If he be married he hath not sinned, not yet doth he sin if he marries not.</hi> But yet when a Man hath not the Gift of Continency, when a Man and a Virgin burns in Lust one towards another, and yet doth not marry, they sin double; for besides the sin of Forni<g ref="char:EOLhyphen"/>cation, they sin against that holy Ordinance which God hath ordained for the preventing of sin. You may see it plain in respect of o<g ref="char:EOLhyphen"/>ther sins, as Drunkenness and Murder: sup<g ref="char:EOLhyphen"/>pose God hath given Means for the prevent<g ref="char:EOLhyphen"/>ing of these sins, though the Means are indif<g ref="char:EOLhyphen"/>ferent in themselves, they may be used, and they may not; but yet when a Man through Temptation, runs into these sins of Drunken<g ref="char:EOLhyphen"/>ness and Murder, and may use Means to pre<g ref="char:EOLhyphen"/>vent it, he sins not only in the groser act, but he sins in not using the Means to prevent it. So it is in respect of Marriage; the Apostle ha<g ref="char:EOLhyphen"/>ving told them, <hi>Ver.</hi> 8. that it is good for
+<pb n="7" facs="tcp:207394:4"/>them if they continue even as he is: But saith he, <hi>Ver.</hi> 9: <hi>If they cannot contain, let them marry: for it is better to marry than to burn:</hi> That is, to burn in Lust. Mark ano<g ref="char:EOLhyphen"/>ther Scripture, which I shall hint unto you, and that is in <hi>Heb.</hi> 13.4. <hi>Marriage is honou<g ref="char:EOLhyphen"/>rable in all things, and the Bed undefiled; but VVhoremongers and Adulterers God will Judge.</hi> Mark it, Marriage is honourable, the Mar<g ref="char:EOLhyphen"/>riage-Bed is honourable, and Children are a great Blessing; but as for Whoremongers and Adulterers, they shall not escape God's just Judgments. That's the second Cause why Matrimony was ordained; it was ordained for the preventing of Sin, and the avoiding of Fornication.</p>
+            <p>Thirdly; It was ordained for the mutual Society, Help and Comfort that Man and Wife ought to have of one another, both in Prosperity and in Adversity. Now this is the first Cause that the Scripture mentions, why Matrimony was ordained, it is <hi>Gen.</hi> 2.18. <hi>God said, it is not meet that the Man should be alone, but that there should be an Help-meet for him: So the Lord God caused a deep Sleep to fall upon Adam, and he slept, and the Lord o<g ref="char:EOLhyphen"/>pened his Side, and took out a Rib, and of that Rib made he VVoman.</hi> It is true, <hi>Adam</hi> had all sorts of living Creatures with him to keep him company, as all sorts of Beast and Fowls,
+<pb n="8" facs="tcp:207394:5"/>and Fishes; but none of these was fitting to be a Help meet for him; therefore it pleased God to make one of his Likeness to be a Help and Comfort to him; and from this we must learn, that when a Man and a Woman is join<g ref="char:EOLhyphen"/>ed together in Marriage, they ought to be a Help and Comfort to one another as long as they live together. Thus I have finished the first Particular, and shewed you who they are that are joined together by God; that is, those that join together according to God's Laws; or when they use Matrimony, for those three Causes for which it was ordained: Which is, 1. For the Propagation of Children. 2. For the avoiding of Fornication. 3. To be a Help and Comfort one to another.</p>
+            <p>Secondly, My second Particular is this, That those whom God hath thus joined together, must not, nor ought not to be parted. There are but two Causes in the Scripture for Man and Wife lawfully to part. The 1. is mentioned by the Apostle, 1 <hi>Cor.</hi> 7.15. <hi>VVhen Man and VVife can by no possible means agree, but live in continual Strife and Debate, and in danger of one another Lives, then they, if they will, may part asunder: For,</hi> saith the Apostle, <hi>a Brother or a Sister is not under Bondage in such Cases; but God hath called us unto Peace.</hi>
+            </p>
+            <p n="2">2. The other Cause is mentioned by our bles<g ref="char:EOLhyphen"/>sed Saviour; <hi>Mat.</hi> 5.32. for the Cause of For<g ref="char:EOLhyphen"/>nication;
+<pb n="9" facs="tcp:207394:5"/>when he tells the Pharisees, <hi>That whoso will put away his Wife, let him write her a Bill of Divorcement. But I say unto you, who<g ref="char:EOLhyphen"/>soever putteth away his VVife, save for the cause of Fornication, causeth her to commit Adultery.</hi> This teacheth us, that for the cause of Fornication a Man may lawfully put away his Wife: And the reason of it is very good, for as long as Man and Wife faithfully keep the Marriage-Bed, and remain true and constant one to the other, he to her, and she to him, they two re<g ref="char:EOLhyphen"/>main one Flesh; but when she once forsakes his Bed, and goes after other Lovers, then the U<g ref="char:EOLhyphen"/>nion is broken, they are no longer one Flesh, and therefore may lawfully be parted; but for no other Cause than this may a Man put away his Wife: <hi>VVhom therefore God hath joined to<g ref="char:EOLhyphen"/>gether, let no man put asunder.</hi> Consider this, that Man and Woman ought not to be parted; not only after they are joined in Marriage, but before, even as soon as the Contract is made betwixt them. For consider, when once a Man and his Virgin hath made a Contract and Bar<g ref="char:EOLhyphen"/>gain one with another, in the Presence of God, to remain for ever true and constant one to ano<g ref="char:EOLhyphen"/>ther, I tell you, they are as truly Man and Wife as if they were never so much married; for publick Matrimony was ordained by Law, on<g ref="char:EOLhyphen"/>ly to confirm the Contract before Men, which they have made in the sight of God: And upon
+<pb n="10" facs="tcp:207394:6"/>this account the publick use of Matrimony is very necessary, because, if they are not married according to the Laws of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> then they might join themselves together by way of Contract, and then go off, and prove fasse one to another, and the Laws of Man never reach them: for man cannot have a<g ref="char:EOLhyphen"/>ny assurance that such are joined together by way of Contract, until it is confirmed by Marriage. But let such consider, that when once the Contract and Promise is made betwixt them, they twain immediately become one Flesh, they are streight Man and Wise toge<g ref="char:EOLhyphen"/>ther; and though they are not publickly marri<g ref="char:EOLhyphen"/>ed as yet, yet let them know, they cannot law<g ref="char:EOLhyphen"/>fully be parted, though the Laws of Man does not bind them from parting, yet the Laws of God doth; for God, who seeth and knows all things, takes Notes of what passes betwixt them; and therefore, though they do escape Mans Laws, yet they shall not escape the just Judgment of God. That Example is most dreadful, of a Maid, who made a Contract and Promise with one whose Name was <hi>Bateman,</hi> it was so firm, that there passed a piece of Gold betwixt them to confirm it, and then after all, she unfaithfully left him, and went and was married to another; but in so doing, she ruined him, and brought God's dreadful Judgments upon her self. And some Parents there are,
+<pb n="11" facs="tcp:207394:6"/>who go about to hinder their Childrens Mar<g ref="char:EOLhyphen"/>riage, when the Knot of Love and Unity is past between them, and by that means they bring them to Ruine. Thus we see, that when once Man and Woman is joined together, and be<g ref="char:EOLhyphen"/>come one Flesh, they cannot lawfully be part<g ref="char:EOLhyphen"/>ed, <hi>For whom God hath joined together, let no Man put asunder.</hi> Thus for the second Particular, That those whom God hath joined together, they cannot, must not, and ought not to be parted.</p>
+            <p>Thirdly, A <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rd thing considerable in the Text, is the reason why they that are joined by God cannot be parted; and that is because of the near Union that is betwixt them; <hi>They twain are one Flesh, so then they are no more twain, but one Flesh.</hi> There was a near Union betwixt <hi>Adam</hi> and his Wife, because she was made out of him; <hi>For the Lord God caused a deep Sleep to fall upon Adam, and then he opened his Side, and took out a Rib, and closed up the Flesh instead thereof;</hi> and of that Rib he made Eve his Wife, and by that means they became one Flesh, and as near a Union there is betwixt Man and Wife that is joined together in Marriage: therefore for this Cause, saith Almighty God, <hi>Gen.</hi> 2.21. <hi>shall a Man leave Father and Mother, and cleave to has Wife: And they twain shall be one Flesh.</hi> Compared with <hi>Mark</hi> 10.7. <hi>Mat,</hi> 19.6. <hi>Eph.</hi> 5.31. Now the Unity between Man and Wife
+<pb n="12" facs="tcp:207394:7"/>may be considered in these Three Respects.</p>
+            <p n="1">1. In respect of the Contract and Promise that is made betwixt them, to be true and faithful one to the other, and to forsake all o<g ref="char:EOLhyphen"/>thers, and keep together as long as Life shall last. Now in this respect they become one Flesh; for when once they break their Marri<g ref="char:EOLhyphen"/>age Covenant in forsaking the Marriage-Bed, and going after Harlots, then their Union is broken, they are no longer one Flesh.</p>
+            <p n="2">2. Man and Wife being joined together in Marriage, become one, in respect also of the near Relation that is betwixt them: for when once a Man and a Woman is joined together in Wedlock, then whosoever is related to one, be<g ref="char:EOLhyphen"/>comes also related to the other; as in particular, his Father becomes her Father, his Mother be<g ref="char:EOLhyphen"/>comes her Mother, his Brethren her Brethren, his Sisters her Sisters; his Children which he had before they came together, now in respect of their Union, they become her Children also.</p>
+            <p>Thirdly and lastly, Man and Woman being joined together in Marriage, become one also, in respect of the Substance and earthly Endow<g ref="char:EOLhyphen"/>ments: His House becomes hers, his Land hers, his Money hers, and her House, and Land, and Money is also hers; so that whatsoever is his, is also hers, and whatsoever is hers, is also his; and whosoever is related to the one, is also rela<g ref="char:EOLhyphen"/>ted to the other. Now in all these Respects,
+<pb n="13" facs="tcp:207394:7"/>Man and VVoman being joined together are one. Now consider, that whosoever you be that are not only married, but are already en<g ref="char:EOLhyphen"/>tered into a Covenent and Contract one with another, your Relation is so near that you can<g ref="char:EOLhyphen"/>not lawfully be parted. And so I have gone through these three particular Branches of the Text: 1. VVho they are that are joined by God. 2. They that are thus joined by God, cannot, nor ought not to be parted. 3. The Reason why they ought not to be parted, is be<g ref="char:EOLhyphen"/>cause they are one Flesh: <hi>For they twain are one Flesh; so then they are no more twain, but one Flesh. Whom therefore God hath joined together, let no man put asunder.</hi> Thus much for the doctrinal Part.</p>
+         </div>
+         <div type="application">
+            <head>The APPLICATION.</head>
+            <p>THE first and main Use that I shall make of this Point, shall be of Exhortation. 1. I exhort you especially, you that are newly entred into the holy State of Matrimony, that you would live together, as becomes those that are joined by God in that holy State, in the per<g ref="char:EOLhyphen"/>forming of those Duties which God hath re<g ref="char:EOLhyphen"/>quired of one to the other: for as there are several Duties which Parents and Children, Masters and Servants owe one to the other: so
+<pb n="14" facs="tcp:207394:8"/>there are several Duties which Husbands and Wives owe one to the other. Now there are some Duties which Husbands o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e unto their Wives, and also there are some Duties which Wives owe unto their Husbands: I shall but just name them.</p>
+            <p n="1">1. There are some Duties which Husbands owe unto their Wives: 1. Is endearing Love, like unto the Love of Christ unto his Church, as you are commanded, <hi>Eph.</hi> 5.25. <hi>Husbands love your Wives, even as Christ loved his Church, and gave himself for it:</hi> not giving them bitter Speeches, reviling them, and railing at them for their good Counsel; but let your Speeches and Behaviour toward her, be sweet, meek and loving, <hi>Gal.</hi> 3.19 <hi>Husbands love your VVives, and be not bitter against them.</hi>
+            </p>
+            <p n="2">2. Live with your Wives, and do not de<g ref="char:EOLhyphen"/>part from them: 1 <hi>Pet.</hi> 3.7. <hi>Husbands, dwell with them according to knowledge.</hi> So, <hi>Prov.</hi> 5.18, 19. <hi>Rejoyce with the VVife of thy youth: Let her be as the loving Hind, and pleasant Roe; let her Breast satisfie thee at all times, and be thou ravished always with her Love.</hi>
+            </p>
+            <p n="3">3. They ought to do their Endeavour, as far as they are able, to provide for their VVives Food and Raiment, and to nourish and cherish the was their own Bodies: <hi>Eph.</hi> 5.28, 29. <hi>So ought Men to love their VVives as their <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bodies; for he that loveth his VVife, loveth
+<pb n="15" facs="tcp:207394:8"/>himself for no man ever yet hateth his own Flesh, but nourisheth it, and cherisheth it.</hi>
+            </p>
+            <p n="4">4. Another Duty which Husbands owe unto their VVives, is Faithfulness to the Bed, in keeping their Marriage Covenant, in cleaving to none but to their VVives, <hi>Hos.</hi> 3.3.</p>
+            <p n="5">5. Protection of them from VVrongs, and covering their Infirmities, as <hi>David</hi> defended his two VVives, 1 <hi>Sam.</hi> 30.18. Also care to please them in all lawful things.</p>
+            <p>Sixthly, and lastly, A last Duty which I shall mention, that Husbands owe to their VVives, is to pray with them, and for them, to perform Family Duties with them every Night and Morning, in Reading and Praying.</p>
+            <p>Beloved Friends, if you are entered now in<g ref="char:EOLhyphen"/>to the holy State of Matrimony, and are joined to a VVife, O be you careful to help her in the way to Heaven! If she be ignorant, instruct her in the ways of God, which will make for her everlasting Peace; and timely admonish her of such sins as you know her to be guilty of, and exhort her to Repentance. And do you also encourage her in the way of well do<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Friends, If you meeting here in the State of VVedlock will but be an occasion of your meeting together in Heaven. O it is then a happy Meeting, indeed! O let it be your care to make it so! VVill it not be a joyful thing for
+<pb n="16" facs="tcp:207394:9"/>you and your VVife to meet at last in Heaven? O now you have a happy Opportuni<g ref="char:EOLhyphen"/>ty to help one another in the way thither, 1 <hi>Pet.</hi> 3.7. <hi>Husbands, dwell with them according to knowledge, as being Heirs together of the Grace of Life, that your Prayers be not hindered.</hi>
+            </p>
+            <p>But as there are Duties which Husbands owe to their VVives, so, 2. There are some Du<g ref="char:EOLhyphen"/>ties which VVives owe unto their Husbands. I shall but just name them.</p>
+            <p>The First, Is to love them above all others in the VVorld: VVives are commanded to love their Husbands, <hi>Tit.</hi> 2.4.</p>
+            <p n="2">2. To be faithful to their Husbands, in re<g ref="char:EOLhyphen"/>ference to their Marriage Covenant, to their Estate, or to any Secret their Husbands intrusts them with, 1 <hi>Tim</hi> 3.11. <hi>Even so must the VVives be, sober, grave and faithful in all things.</hi>
+            </p>
+            <p n="3">3. VVives owe to their Husbands Reverence, <hi>Eph.</hi> 5.33. <hi>Let the VVife see that she reverence her Husband.</hi>
+            </p>
+            <p n="4">4. VVives must be subject to their Husbands in all lawful things, as unto Christ, <hi>Eph.</hi> 5.22.24. <hi>VVives, submit your selves unto your own Hus<g ref="char:EOLhyphen"/>bands, as unto the Lord.</hi> So <hi>Ver.</hi> 24. <hi>As the Church is subject unto Christ, so let the VVives be unto their own Husband, in all things.</hi>
+            </p>
+            <p n="5">5. Another Duty, is Carefulness to please their Husbands, suiting themselves to their Dis<g ref="char:EOLhyphen"/>positions.</p>
+            <p n="6">
+               <pb n="17" facs="tcp:207394:9"/> 6. To help her Husband to provide for their Family. Now this is a Character which <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> gives of a good Wife, <hi>Prov.</hi> 31.27. <hi>She looketh well to the ways of her Houshold, and eat<g ref="char:EOLhyphen"/>eth not the Bread of Idleness.</hi>
+            </p>
+            <p>Sevently and lastly, A last Duty which Wives owe to their Husbands, is to give ear to their godly Counsels and Admonitions, to re<g ref="char:EOLhyphen"/>prove and admonish them of their wicked Vices, to teach them the ways of God, if they are ig<g ref="char:EOLhyphen"/>norant; to exhort them to repent, to encou<g ref="char:EOLhyphen"/>rage them in well-doing, and help them in their way to Heaven, and to pray for them. This is a godly Counsel which St. <hi>Peter</hi> gives to Wives, 1 <hi>Pet.</hi> 3.1, 2. <hi>Ye Wives, be in sub<g ref="char:EOLhyphen"/>jection to your own Husbands, that if any obey not the Word, they also may without the Word be won by the Conversation of the Wife: Whilst they be<g ref="char:EOLhyphen"/>hold chast Conversation coupled with Fear.</hi> These are those Duties which Husbands and Wives owe one to another. And that shall suffice for my first Use, which is of Exhortation.</p>
+            <p>I will make but one Use more, and that shall be of Instruction. Now from this Subject, con<g ref="char:EOLhyphen"/>cerning the Union betwixt Man and Wife, we may learn these two things.</p>
+            <p n="1">1. The Union betwixt Christ and his Church, whereof every Saint is a Member; for, as saith the Apostle, <hi>Ephes.</hi> 5. <hi>As the Husband is the Head of the Wife, even so Christ is the Head
+<pb n="18" facs="tcp:207394:10"/>of the Church.</hi> Therefore he exhorts Men to love their Wives, even as Christ loved the Church, and gave himself for it; the Church calls Christ her Husband, and Christ calls her his Spouse. Now in this respect St. <hi>Paul</hi> quotes the Words of our blessed Saviour, in the Words before my Text, <hi>Eph.</hi> 5.31. <hi>For this Cause shall a Man leave Father and Mother, and be joyned to his Wife, and they twain shall be one Flesh.</hi> But then afterwards the Apostle calls it a Myste<g ref="char:EOLhyphen"/>ry, and then shews them his meaning, <hi>Ver.</hi> 33. that he speaks concerning Christ and his Church, for as it is in regard of Man and Wife, before a Man takes her to be his Wife, he is as it were a Stranger unto her; but as soon as e<g ref="char:EOLhyphen"/>ver they are entred into a Covenant one with a<g ref="char:EOLhyphen"/>nother, and make a Contract with one another, then they are united and become one. Thus it is betwixt Christ and a Member of his Church; all the time a Man is out of Christ, and in his natural Estate, he is a meer Stranger to Christ, and to all his Benefits; but as soon as ever he hath covenanted to be Christ's, as soon as ever as he hath made a firm Contract, and is married to Christ, then he becomes one with Christ, then Christ is his, and he is Christ's; Christ is in him, and he in Christ: This the Apostle proves, 1 <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or.</hi> 6.16.17. <hi>VVhat, know ye not that he that is joined to an Harlot is one Body? for two (saith he) is one Flesh: But he that is joined to the Lord, is
+<pb n="19" facs="tcp:207394:10"/>one Spirit.</hi> As there is a fleshly Union betwixt a Man and Woman when they are joined in Mar<g ref="char:EOLhyphen"/>riage, even so there is a spiritual Union be<g ref="char:EOLhyphen"/>twixt Christ and a Believer; when they are joined by Faith, when a Believer is joined to Christ by Faith. Now I shall compare the Uni<g ref="char:EOLhyphen"/>on betwixt Christ and his Church, to the Union betwixt Man and Wife in these Respects.</p>
+            <p n="1">1. Before a Man was joined to his Wife by a Marriage Covenant, it may be his Love was set upon others besides her; but now being en<g ref="char:EOLhyphen"/>tered into a Marriage Covenant with her, now he forsakes all his other Loves, and cleaves ful<g ref="char:EOLhyphen"/>ly and wholly to her, and remains true and con<g ref="char:EOLhyphen"/>stant to her so long as they both shall live. So it is betwixt Christ and a Believer; all the time that he was out of Christ, he had many Lo<g ref="char:EOLhyphen"/>vers, the World was his Lover, the Flesh was his Beloved, his carnal Pleasures his merry Companions, his sinful Delights, all these were his Lovers. Ay, But now he hath made a Co<g ref="char:EOLhyphen"/>venant with Christ to be his, now he is married to Christ by Faith, and therefore now he for<g ref="char:EOLhyphen"/>sakes all his other Lovers, he casteth them all out of his Heart, and cleaves fully and wholly to Christ. Now he is content to forsake Father and Mother, and all whatsoever is near or dear unto him for Christ's Sake; now Christ him<g ref="char:EOLhyphen"/>self saith, <hi>Mat.</hi> 10.37. <hi>He that forsaketh not, he that loveth Father or Mother more than me, is not worthy of me; he that loveth Son or Daugh<g ref="char:EOLhyphen"/>ter
+<pb n="20" facs="tcp:207394:11"/>more than me, is not worthy of me.</hi> So also he that loveth any one, doting on Lust more than Christ, is not worthy of him. So, <hi>Luke</hi> 14.26. <hi>He that hateth not Father and Mother, yea, and his own Life too, for my sake, cannot be my Disciple.</hi> That is, when they stand in compe<g ref="char:EOLhyphen"/>tition with Christ, they that would be Christ's Spouse, must take him, not only as their Hus<g ref="char:EOLhyphen"/>band, but also as their Lord and Saviour, their Lord and Master, to be ruled and governed by him, and forsake all sinful Delights which are dear and pleasant to them for his Sake.</p>
+            <p n="2">2. The Union betwixt Christ and his Church, is compared to the Union betwixt Man and Wife, in respect of the new Relation and Bene<g ref="char:EOLhyphen"/>fits which comes by this Union. When once a Virgin is betrothed to a Man, then whosoever is related unto him, doth also become related to her; his Father is her Father, his Brothers and Sisters, becomes her Brothers and Sisters, his House is her House, his Land her Land; so whatsoever is his, becomes hers.</p>
+            <p>Thus it is, when a Believer is married unto Jesus Christ, then that Believer is immediately received into a new Relation; for God, who is the Father of our Lord Jesus Christ, becomes his Father, and he being united to Christ, be<g ref="char:EOLhyphen"/>comes God's adopted Son; the Spirit of God is his to comfort him, and at the last, the Kingdom of Heaven shall be his, and he shall
+<pb n="21" facs="tcp:207394:11"/>be a Co-heir with Christ, and reign with him for ever and ever. Believers, when once they are married unto Christ, then all things be<g ref="char:EOLhyphen"/>comes theirs; as it is, 1 <hi>Cor.</hi> 3.22, 23. <hi>VVhe<g ref="char:EOLhyphen"/>ther Paul, or Apollos, or Cephas, or the VVorld, or Life, or Death, or things present, or things to come, all are yours: And you are Christs, and Christ is Gods.</hi> Indeed a wicked Man, though he enjoys most of the World, yet he can claim a Right to nothing; but a Saint, though he enjoys least, yet he hath a Right to all things; but on the other side, a Sinner that is out of Christ, he is of all others the most miserable, for God is none of his, and Christ is none of his, and he hath no Right to Heaven, nor no Right to any thing but Hell and Damnation.</p>
+            <p>Lastly, As when a Man and his Wife is join<g ref="char:EOLhyphen"/>ed together in Marriage, they cannot lawfully be parted; even so there is no parting Christ and a Believer asunder; for saith the Apostle, <hi>Rom.</hi> 0.38. <hi>For I am perswaded, that neither Death, nor Life, nor Principalities, nor Powers, nor things present, nor things to come, nor Heighth, nor Depth, nor any other Creature shall be able to separate us from the love of God, which is in Christ Jesus our Lord.</hi>
+            </p>
+            <p n="2">2. From the Union that is betwixt Man and Wife that are joined in Marriage, we may learn something also concerning the Union that shall be betwixt the Saints hereafter in Heaven. As Man and Wife being joined together in Marri<g ref="char:EOLhyphen"/>age,
+<pb n="22" facs="tcp:207394:12"/>are one in a natural sence, even so the Saints, the Spouse of Christ, are one in a spiritu<g ref="char:EOLhyphen"/>al sence; the Saints are both one with Christ, and one with another; the Union betwixt the Saints are so near, that they make but one Church Militant hear on Earth, and they shall make but one Church Triumphant in Heaven. Now in <hi>Mat.</hi> 22.23, 24, 25, 26. <hi>The Sadduces, which say there is no Resurrection, came to Christ, and asked him, saying, Master, Moses said, if a Man die, having no Children, his Brother shall marry his VVife, and raise up Seed unto his Brother. Now, saith he, there were seven Brethren, and the first, when he had married a VVife, deceased, and having no Issue, left his VVife unto his Brother: Likewise the second also, and the third, unto the seventh: And last of all the VVoman died also. Therefore, say they, in the Resurrection, whose VVife will she be of the seven, for they have all had her.</hi> But then see what our Saviour answer<g ref="char:EOLhyphen"/>ed them, <hi>Ver.</hi> 29.30. <hi>Ye do err in your Hearts, not knowing the Scriptures, nor the Power of God: For in the Resurrection they neither marry, nor are given in Marriage; but are like the Angels of God.</hi> This therefore was a very silly Question which the Pharisees asked our Saviour Christ, as if in Heaven there were Marrying and giving in Mar<g ref="char:EOLhyphen"/>riage; whereas there shall be no need of them, for all Ordinances shall then vanish away all the Saints in Heaven shall be so near united to<g ref="char:EOLhyphen"/>gether,
+<pb n="23" facs="tcp:207394:12"/>so there shall be none of the Union of Marriage. Now when Christ told the Pharisees, that in the Resurrection they neither marry, nor are given in Marriage; is as much as if he had told them in plain Words, you ask whose Wife she shall be of the seven; why as many of the seven as were married to Christ; that is, if she were also married to Christ; so many of them she will own for her Husbands, and no more; if they were all married to Christ, then she will own them all for her Husbands. As a godly Father will own none of all his Children at the Resurrection, but such of them as were God's Children; even so the godly Husband will own none of his Wives, though he have had never so many VVives, but such of them as were Married to Christ. So also, if a VVife has had never so many Husbands, yet at the Resurrection, she will own none of them, but such as were married to Christ at the Re<g ref="char:EOLhyphen"/>surrection; these seven Husbands, as many of them as were married to Christ, shall own one another as Brethren: And they shall own her as their VVife, and she shall own them as her Husbands; and besides, when this VVoman, and these her Husbands shall meet in Heaven, there shall be as near a Union betwixt these Brethren, as there shall be betwixt she and them; yet there shall not be a greater Union betwixt these Bre<g ref="char:EOLhyphen"/>thren, or betwixt them and their VVife, then there shall be betwixt them and all the rest of
+<pb n="24" facs="tcp:207394:13"/>the Saints, the greatest part of which were before Strangers unto them here upon Earth; for I told you before, that all the Saints in Heaven shall make but one triumphant Church; Christ and they make but one Body; Christ is the Head, and they are all Members, and therefore there must needs be a near Union betwixt all Christ's Members in Heaven; there shall not only be a near Union betwixt near Relations, as Husbands and VVives, Parents and Children; but amongst all the Saints in general: there shall be a nearer and sweeter Union amongst all the Saints in Heaven, than ever there was betwixt Man and VVife here upon Earth; for the lo<g ref="char:EOLhyphen"/>vingest Couple that ever lived, have had some Strifes, some Jars and Tumults, some Feuds and Debates in several Points; but when once we come to Heaven, we shall then be all per<g ref="char:EOLhyphen"/>fectly agreed, then we shall all with one Heart and Mind, rejoyce one with another, and that for ever.</p>
+            <p>Let therefore Man and Wife so live together in this VVorld instructing, exhorting, and admonishing one another, and praying with, and for one another, and helping one another in the way to Heaven; and then at last you shall meet together in everlasting Glory, and sit down to rest with <hi>Abraham, Isaac</hi> and <hi>Jacob;</hi> where you shall behold God Face to Face; in whose Presence there is fulness of Joy, and at whose Right<g ref="char:EOLhyphen"/>hand there are Pleasures for evermore.</p>
+            <closer>
+               <hi>Which God of his Mercy grant unto us all.</hi> Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207394:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
